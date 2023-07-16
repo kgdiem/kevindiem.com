@@ -6,7 +6,7 @@ description: Launching a Blog on a Budget; Using Jekyll, S3 and Cloudflare to re
 image:
 ---
 
-## TLDR;
+## TL;DR
 
 Launching a blog on a budget: Using Jekyll and S3 to revamp my personal site, start a blog, and create an app landing page.
 
